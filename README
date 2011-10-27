@@ -3,7 +3,7 @@ irclicious.py
 
 Depends
 -------
-- urwid http://excess.org/urwid/ 
+- urwid http://excess.org/urwid/
 - pydelicious http://code.google.com/p/pydelicious/
 - PyYAML http://pypi.python.org/pypi/PyYAML/
 
@@ -51,7 +51,7 @@ scraplist: 'crap.txt'
 
 If your logs are different, choose:
 - sed is your friend
-- edit ircilicious.py and adapt the regex ``lutin`` around line 102 
+- edit ircilicious.py and adapt the regex ``lutin`` around line 102
 
 Then::
 

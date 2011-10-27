@@ -3,9 +3,9 @@ irclicious.py
 
 - give a more complex configuration yamlized        [done]
 - fix refresh when resizing teh window              [done]
-- do not shows urls with tags in tag_exclude        [done] 
+- do not shows urls with tags in tag_exclude        [done]
 - tags synonyms										[done]
-- show info about one url               
+- show info about one url
 - speedup urlparsing                                [done]
 - be more object-oriented                           [done]
 - delay posting in a thread
